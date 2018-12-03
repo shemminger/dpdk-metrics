@@ -27,3 +27,4 @@ SPDK https://github.com/spdk/spdk.git
 Trex https://github.com/cisco-system-traffic-generator/trex-core.git
 Warp17 https://github.com/Juniper/warp17.git
 yastack https://github.com/saaras-io/yastack.git
+nDPI https://github.com/ntop/nDPI.git
